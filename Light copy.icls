@@ -535,5 +535,30 @@
         <option name="FOREGROUND" value="e6" />
       </value>
     </option>
+    <option name="org.rust.ENUM">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="627a" />
+      </value>
+    </option>
+    <option name="org.rust.SELF_EXPRESSION">
+      <value />
+    </option>
+    <option name="org.rust.STATIC">
+      <value />
+    </option>
+    <option name="org.rust.STRUCT">
+      <value />
+    </option>
+    <option name="org.rust.TYPE_ALIAS">
+      <value />
+    </option>
+    <option name="org.rust.UNION">
+      <value />
+    </option>
   </attributes>
 </scheme>
