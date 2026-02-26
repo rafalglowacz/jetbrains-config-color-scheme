@@ -201,7 +201,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="1750eb" />
+        <option name="FOREGROUND" value="13665f" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -393,12 +393,16 @@
         <option name="EFFECT_COLOR" value="0" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
-    <option name="JS.GLOBAL_VARIABLE">
+    <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="830091" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE">
+      <value />
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.JSX_CLIENT_COMPONENT">
       <value>
         <option name="FOREGROUND" value="ad6339" />
