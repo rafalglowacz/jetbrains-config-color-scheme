@@ -450,6 +450,9 @@
         <option name="FOREGROUND" value="7ebd" />
       </value>
     </option>
+    <option name="PHP_NAMED_ARGUMENT">
+      <value />
+    </option>
     <option name="PHP_PARAMETER">
       <value />
     </option>
