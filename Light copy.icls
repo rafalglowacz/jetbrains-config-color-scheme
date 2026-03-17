@@ -117,9 +117,7 @@
     <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="DEFAULT_ATTRIBUTE">
-      <value>
-        <option name="FOREGROUND" value="174ad4" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -439,6 +437,9 @@
       <value>
         <option name="FOREGROUND" value="ff" />
       </value>
+    </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
