@@ -439,7 +439,9 @@
       </value>
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="627a" />
+      </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
