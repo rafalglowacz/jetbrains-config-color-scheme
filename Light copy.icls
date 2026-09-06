@@ -116,6 +116,12 @@
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="868686" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value />
     </option>
@@ -254,6 +260,12 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="EFFECT_COLOR" value="a8adbd" />
+      </value>
+    </option>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="dad0f5" />
+        <option name="ERROR_STRIPE_COLOR" value="6d46e3" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
